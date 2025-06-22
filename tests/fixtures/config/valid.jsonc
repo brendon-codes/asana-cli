@@ -1,0 +1,7 @@
+{
+  // Comments are supported in repo-local config files.
+  "asanaAccessToken": "fixture-secret-token",
+  "asanaWorkspaceGid": "1200123456789",
+  "asanaBaseUrl": "https://app.asana.com/api/1.0",
+  "mode": "dryrun"
+}

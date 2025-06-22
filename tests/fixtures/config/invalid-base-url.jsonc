@@ -1,0 +1,6 @@
+{
+  "asanaAccessToken": "fixture-secret-token",
+  "asanaWorkspaceGid": "1200123456789",
+  "asanaBaseUrl": "ftp://example.test",
+  "mode": "dryrun"
+}

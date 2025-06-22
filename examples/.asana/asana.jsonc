@@ -1,0 +1,14 @@
+{
+  // Use a personal access token or OAuth access token.
+  // Requests send this as: Authorization: Bearer <token>
+  "asanaAccessToken": "replace-with-asana-access-token",
+
+  // Workspace GID to use for Asana API requests.
+  "asanaWorkspaceGid": "replace-with-workspace-gid",
+
+  // Keep generated config in dryrun mode until you intentionally enable live API calls.
+  "mode": "dryrun",
+
+  // Optional. Defaults to the public Asana API base URL when omitted.
+  "asanaBaseUrl": "https://app.asana.com/api/1.0"
+}
